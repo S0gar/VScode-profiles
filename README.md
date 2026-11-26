@@ -11,15 +11,15 @@ The project is a list of profiles that I find convenient to work with in Visual 
 
 Select profiles settings
 
-![where-is-profiles-prop](images\where-is-profiles-prop.png)
+![where-is-profiles-prop](images/where-is-profiles-prop.png)
 
 select import profile
 
-![where-is-import-profile](images\where-is-import-profile.png)
+![where-is-import-profile](images/where-is-import-profile.png)
 
 and select the required profile from the directory where you downloaded the project
 
-![where-is-select-dir](images\where-is-select-dir.png)
+![where-is-select-dir](images/where-is-select-dir.png)
 
 Congratulations, you’ve installed one of my profiles; repeat the process for the remaining files to get my complete Visual Studio Code setup.
 
